@@ -1,20 +1,9 @@
-def
-speak_to_grandma = "I LOVE YOU GRANDMA!"
+def speak_to_grandma(phrase)
+  
 end
 
-if speak_to_grandma == "hey ma"
-puts "HUH?! SPEAK UP SONNY!"
-
-elsif speak_to_grandma == "HEY"
-puts "NO NOT SINCE 1938!"
-
-elsif speak_to_grandma == "I LOVE YOU GRANDMA"
-puts " I LOVE YOU TOO PUMPKIN"
-
-else 
-puts "HUH?! SPEAK UP SONNY"
-
-end
+#if speak_to_grandma == "hey ma"
+#
 
 
 
